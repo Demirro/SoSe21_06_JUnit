@@ -24,7 +24,7 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🎥 Börges Seminar Video (Iterable)](https://www.ilias.uni-koeln.de/ilias/ilias.php?ref_id=3957251&eid=0cf2923f-21a8-4ba4-94f4-6c8fcfe2a9b5&cmd=streamVideo&cmdClass=xoctplayergui&cmdNode=x2:p7:18a:18l&baseClass=ilrepositorygui)
 
-- [📃 Unit-Tests (Wegweiser)](https://dh-cologne.github.io/java-wegweiser/articles/JUnit.html)
-- [📃 JUnit (Extern DE)](https://openbook.rheinwerk-verlag.de/javainsel/21_002.html)
+- [📃 Scanner (Extern)](https://javabeginners.de/Ein-_und_Ausgabe/Scanner.php)
+- [📃 Scanner noch simpler (Extern)](https://falconbyte.net/java-scanner.php)
 
 - [📃 Java Naming Conventions](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Naming-Conventions.md)
